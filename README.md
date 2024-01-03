@@ -1,0 +1,2 @@
+This project is based on [this](https://www.freecodecamp.org/news/how-to-build-a-geolocation-based-weather-forecasting-system-using-tkinter/) tutorial by Ashutosh Krishna.
+Highly recommend the tutorial for learning about API calls in Python and built-in GUIs! The final program runs as a desktop-based app that takes in a city/IP address and provides a description of the weather (haze, fog, clouds, etc.) in addition to whether it is colder or hotter today than yesterday. 
